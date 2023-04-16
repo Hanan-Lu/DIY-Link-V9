@@ -1,0 +1,9 @@
+exec setsn=50121742
+exec setsn=29159380
+
+Exec AddFeature GDB      ;添加GDB 
+Exec AddFeature RDI      ;添加RDI 
+Exec AddFeature FlashBP  ;添加FlashBP  
+Exec AddFeature FlashDL  ;添加FlashDL 
+Exec AddFeature JFlash   ;添加JFlash 
+Exec AddFeature RDDI     ;添加RDDI			//慎重，会报clone
